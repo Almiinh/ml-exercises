@@ -1,1 +1,3 @@
 .venv
+.distilbert-base-uncased-finetuned-imdb
+.gitignore
